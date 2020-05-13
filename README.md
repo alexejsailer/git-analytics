@@ -1,2 +1,2 @@
 # git-analytics
-This is the sourcecode to my git-analytics-docker project
+This will get the source code to my git-analytics-docker project
